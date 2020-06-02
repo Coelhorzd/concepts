@@ -29,14 +29,6 @@ The idea to start this project came up from questioning the current can design a
 <br>
 <br>
 
-### Process   
-
-ESCREVA AQUI!   
-
-
-<br>
-<br>
-
 ## Discovering   
 <br>
 ### User research  
@@ -51,7 +43,7 @@ The factory cycle goes as follow: The industry gets aluminum/steel cans from fac
 
 So the product life cycle is:   
 
-![Bodyspray's can cycle](/img/portfolio/body-spray/can-cycle.png)   
+![Bodyspray's can cycle](img/portfolio/body-spray/can-cycle.png)   
 > Bodyspray's can cycle   
 
 <br>
