@@ -50,7 +50,7 @@ So the product life cycle is:
 
 The user map is:   
 
-![User/consumer journey](/img/portfolio/body-spray/user-map.png)   
+![User/consumer journey](img/portfolio/body-spray/user-map.png)   
 > User/consumer journey   
 
 <br>
@@ -134,10 +134,10 @@ compressor to purge the previous fragrance and fill the cans with propellant (co
 
 Some sketches and prototypes created for the concept   
 
-![Can machine concept](/img/portfolio/body-spray/machine-concept.png)   
+![Can machine concept](img/portfolio/body-spray/machine-concept.png)   
 >Can and machine concept   
 
 <br>
 
-![Rechargeable can concept](/img/portfolio/body-spray/can-concept.png)   
+![Rechargeable can concept](img/portfolio/body-spray/can-concept.png)   
 >Rechargeable can concept   
