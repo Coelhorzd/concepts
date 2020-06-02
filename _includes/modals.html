@@ -1,0 +1,33 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2 ALIGN=CENTER>{{ post.title }}</h2>
+                            <hr>
+                            <br>
+
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% if post.description %}
+                                <p>{{ post.description }}</p>
+                            {% endif %}
+
+
+                        </div>
+                    </div>
+                </div> {% if post.content %}
+                <p ALIGN=LEFT> {{post.content}}</p>
+                {% endif %}
+            </div> <p ALIGN=CENTER> <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button> </p>
+        </div>
+    </div>
+{% endfor %}
