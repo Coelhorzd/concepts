@@ -34,7 +34,7 @@ This redesign concept took me about 4 months.
 I created a survey based on some notes of talks I had with photographers and also from notes I took from a video about cameras design and usability.   
 <br>
 
-![Mentioned video about current camera design](/img/portfolio/fujifilm/bad-design.png)
+![Mentioned video about current camera design](img/portfolio/fujifilm/bad-design.png)
 >Fstoppers Youtube video about cameras design
 
 <br>
@@ -85,13 +85,13 @@ Notes from chats with photographers and my observations also contributed to the 
 Lots of answers became an affinity mapping   
 <br>   
 
-![Affinity mapping](/img/portfolio/fujifilm/fujifilm-affinity.png)
+![Affinity mapping](img/portfolio/fujifilm/fujifilm-affinity.png)
 >Affinity mapping
 
 <br>
-![Current ergonomics of cameras](/img/portfolio/fujifilm/ergonomics.png)
+![Current ergonomics of cameras](img/portfolio/fujifilm/ergonomics.png)
 >Current ergonomics - stressed wrist position
 
 <br>
-![Title](/img/portfolio/fujifilm/fujifilm.png)
+![Title](img/portfolio/fujifilm/fujifilm.png)
 > Title
