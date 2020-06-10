@@ -85,7 +85,7 @@ Notes from chats with photographers and my observations also contributed to the 
 Lots of answers became an affinity mapping   
 <br>   
 
-![Affinity mapping](img/portfolio/fujifilm/fujifilm-affinity.png)
+![Affinity mapping](img/portfolio/fujifilm/concept-affinity.png)
 >Affinity mapping
 
 <br>
